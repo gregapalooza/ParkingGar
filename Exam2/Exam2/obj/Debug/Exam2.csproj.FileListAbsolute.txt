@@ -1,0 +1,10 @@
+C:\Users\gtvag\source\repos\Exam2\Exam2\bin\Debug\Exam2.exe.config
+C:\Users\gtvag\source\repos\Exam2\Exam2\bin\Debug\Exam2.exe
+C:\Users\gtvag\source\repos\Exam2\Exam2\bin\Debug\Exam2.pdb
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.csprojAssemblyReference.cache
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.Form1.resources
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.Properties.Resources.resources
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.GenerateResource.cache
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.csproj.CoreCompileInputs.cache
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.exe
+C:\Users\gtvag\source\repos\Exam2\Exam2\obj\Debug\Exam2.pdb

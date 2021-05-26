@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tickets>
+  <ticket ticketNo="1" timeIn="10/18/2020 8:31:42 PM" timeOut="10/18/2020 8:31:45 PM" />
+  <ticket ticketNo="1" timeIn="10/18/2020 8:36:32 PM" timeOut="10/18/2020 8:36:38 PM" />
+  <ticket ticketNo="2" timeIn="10/18/2020 8:38:33 PM" timeOut="10/18/2020 8:38:36 PM" cost="2.0" />
+  <ticket ticketNo="1" timeIn="10/18/2020 8:38:32 PM" timeOut="10/18/2020 8:39:24 PM" cost="2.0" />
+  <ticket ticketNo="1" timeIn="11/9/2020 9:59:33 PM" timeOut="11/9/2020 9:59:43 PM" cost="2.0" />
+  <ticket ticketNo="1" timeIn="5/25/2021 7:32:03 PM" timeOut="5/25/2021 7:32:06 PM" cost="2.0" />
+</tickets>
